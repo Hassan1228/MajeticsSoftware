@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import styles from './CustomCursor.module.css';
-import animatedCursor from 'animated-cursor'; // Import the animatedCursor library
+
 
 const CustomCursor = () => {
   useEffect(() => {
