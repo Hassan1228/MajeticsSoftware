@@ -1,5 +1,7 @@
 import React, { useEffect } from 'react';
 import styles from './CustomCursor.module.css';
+import AnimatedCursor from 'animated-cursor';
+
 
 
 const CustomCursor = () => {
